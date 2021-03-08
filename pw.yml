@@ -1,0 +1,4 @@
+gmail :
+  email : #mailid
+  password : #password
+  url : https://gmail.com #made for gmail but can be edited for others
